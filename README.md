@@ -11,8 +11,7 @@ https://xd.adobe.com/view/765fe8d1-6eff-4e8d-a0c9-01eda58b2ee6-230c/?fullscreen
 2. cd into backend and execute the following commands:
    ```
    npm install
-   npm start
-   npm run app   
+   npm start  
    ```
 The should run the backend server on http://localhost:8082/
 
