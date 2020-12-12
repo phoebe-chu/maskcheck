@@ -31,4 +31,4 @@ The web application is optimized for a screen size of 1920 x 1080.
 
 *note: if not all code for jupyter notebooks is rendering, view using nbviewer 
 
-https://nbviewer.jupyter.org/github/phoebe-chu/maskcheck/blob/master/MaskCheck%20Detection.ipynb
+https://nbviewer.jupyter.org/github/phoebe-chu/maskcheck/blob/master/MaskCheckDetection.ipynb
