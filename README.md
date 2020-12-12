@@ -26,3 +26,7 @@ The web application is optimized for a screen size of 1920 x 1080.
 ## mask detection:
 1. Open the notebook in jupyter notebooks and change the <password> for the database api with the password
 2. Follow the instructions in the comments
+
+*note: if not all code for jupyter notebooks is rending, view using nbviewer 
+
+https://nbviewer.jupyter.org/github/phoebe-chu/maskcheck/blob/master/MaskCheck%20Detection.ipynb
