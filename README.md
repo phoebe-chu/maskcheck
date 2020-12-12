@@ -3,6 +3,9 @@
 This fullstack MERN web-application was developed by Phoebe Chu.
 The maskcheck detection notebook was developed by Vinay Harrichan.
 
+## Link to the original web-app prototype:
+https://xd.adobe.com/view/765fe8d1-6eff-4e8d-a0c9-01eda58b2ee6-230c/?fullscreen
+
 ## To execute the web-app code:
 1. In default.json file located in the config folder of the backend folder, replace ```<password>``` with the password
 2. cd into backend and execute the following commands:
