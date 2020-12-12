@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://dbUser:<password>@masklog.nyfeh.mongodb.net/MaskLog?retryWrites=true&w=majority"
+}

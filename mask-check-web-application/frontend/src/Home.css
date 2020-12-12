@@ -1,0 +1,7 @@
+.homebg {
+    min-height: 1080px;
+    max-width: 100;
+    background-size:cover;
+    background-image: url('./homebg.png');
+    background-color: #cccccc;
+   } 

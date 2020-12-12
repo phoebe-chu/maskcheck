@@ -1,0 +1,20 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 20px;
+      border-radius: 4px;
+      background: #ffffff;
+      
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  .loginbg {
+    min-height: 1080px;
+    width: 100%;
+    background-size:cover;
+    background-image: url('./loginbg.png');
+    background-color: #cccccc;
+   } 
