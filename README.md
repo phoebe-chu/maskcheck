@@ -29,6 +29,6 @@ The web application is optimized for a screen size of 1920 x 1080.
 1. Open the notebook in jupyter notebooks and change the ``` <password> ``` for the database api with the password
 2. Follow the instructions in the comments
 
-*note: if not all code for jupyter notebooks is rendering, view using nbviewer or download code
+*note: if not all code for jupyter notebooks is rendering, view using nbviewer, download code and open in Jupyter notebooks, or click view raw file.
 
 https://nbviewer.jupyter.org/github/phoebe-chu/maskcheck/blob/master/MaskCheckDetection.ipynb
